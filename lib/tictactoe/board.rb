@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module TicTacToe
   class Board
     attr_accessor :board_dimensions, :total_dimensions

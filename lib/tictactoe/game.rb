@@ -1,5 +1,4 @@
 # frozen_string_literal: true
-
 module TicTacToe
   class Game
     attr_accessor :movements, :winner_player
