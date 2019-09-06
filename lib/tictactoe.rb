@@ -9,4 +9,3 @@ require './tictactoe/verify'
 player_one = 'X'
 player_two = 'O'
 play_again = ' '
-
